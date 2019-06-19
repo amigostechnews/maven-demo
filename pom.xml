@@ -25,7 +25,7 @@
 				<extensions>true</extensions>
 					<configuration>
 				<deploymentType>cloudhub</deploymentType>
-				<muleVersion>4.0</muleVersion>
+				<muleVersion>3.9.0</muleVersion>
 				<username>venkat_vjw</username>
 				<password>Admin@123</password>
 				<workerType>Micro</workerType>
